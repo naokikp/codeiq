@@ -1,0 +1,1 @@
+for(char z='@';z++<'z';cout<<z);

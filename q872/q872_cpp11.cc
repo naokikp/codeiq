@@ -1,0 +1,1 @@
+for(auto z='@';z++<'z';cout<<z);
